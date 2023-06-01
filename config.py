@@ -1,4 +1,6 @@
-TOKEN = "6249607833:AAEEoQqBNi6zJvDxH7u7O8erX1g7klHeFZA"
+from secyrity import TOKEN
+
+TOKEN = TOKEN
 
 currencies = {"доллар": "USD",
               "рубль": "RUB",
