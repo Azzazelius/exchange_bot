@@ -1,4 +1,4 @@
-from secyrity import TOKEN
+from security import TOKEN
 
 TOKEN = TOKEN
 # токен указан в файле secyrity.py, который не коммитится в git
